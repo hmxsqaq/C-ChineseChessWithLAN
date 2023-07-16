@@ -1,0 +1,4 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(517,5): warning MSB8028: 中间目录(x64\Debug\)包含从另一个项目(中国象棋.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  main.cpp
+C:\Users\wzh56\Desktop\GameDesign\2023\中国象棋\中国象棋\main.cpp(16,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  中国象棋.vcxproj -> C:\Users\wzh56\Desktop\GameDesign\2023\中国象棋\x64\Debug\中国象棋客户端.exe
